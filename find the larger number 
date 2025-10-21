@@ -12,4 +12,4 @@ int main()
   return 0;
 }
 
-// while entering input just enter numbers like 10,27,33 and run the program
+/* while entering input just enter numbers like 10,27,33 and run the program */
